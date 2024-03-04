@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @marcoserenelli, an IT student in UNICAM.
-- 💻 I’m currently learning java, python, javascript, and much more!!
+<h1 align="center">Hi 👋, I'm Marco Serenelli</h1>
+<h3 align="center">Master's Degree student passionate about data science, machine learning, and deep learning.</h3>
 
-<!---
-marcoserenelli/marcoserenelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">📫 How to reach me: </h3>
+<p align="left">
+<a href="https://linkedin.com/in/marco-serenelli" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="marcoserenelli" height="60" width="70" /></a>
+<a href="mailto:marco.serenelli00@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/452057/mail.svg" alt="marcoserenelli" height="60" width="70" /></a>
+</p>
