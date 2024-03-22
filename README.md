@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marco Serenelli</h1>
-<h3 align="center">Master's Degree student passionate about data science, machine learning, and deep learning.</h3>
+<h3 align="center">Master's Degree student passionate about data science, machine learning, and game development.</h3>
 
 <h3 align="center">📫 How to reach me: </h3>
 <p align="center">
